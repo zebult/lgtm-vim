@@ -6,7 +6,7 @@ LGTM :+1:
 
 ## Usage
 
-Type `<leader>lgtm` or `:LGTM`
+Type `<leader>lgtm` or `:LGTM` or `:LGMTRandomList`
 
 ## Requirements
 
